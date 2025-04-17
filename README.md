@@ -86,6 +86,4 @@ print("Predicted Insurance Charges:", prediction)
 
 ---
 
-## 📌 Author
 
-- **Tanmoy** – Data Science Enthusiast from DIAT Pune
